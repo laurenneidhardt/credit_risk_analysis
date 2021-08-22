@@ -6,6 +6,9 @@ To better understand credit risk with unbalanced classes, I resampled this data 
 Example:
 
 
+![RandomSampling](https://github.com/laurenneidhardt/credit_risk_analysis/blob/main/RandomSampling.PNG)
+
+
 Results:
 
 ### RandomOverSampler
